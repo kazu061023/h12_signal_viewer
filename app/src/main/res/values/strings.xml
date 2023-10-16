@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">H12Signal</string>
+
+    <string name="notification_channel_name">シグナル表示</string>
+    <string name="notification_channel_description">リアルタイムで電波強度を表示します。</string>
+
+</resources>
